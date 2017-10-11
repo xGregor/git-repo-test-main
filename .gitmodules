@@ -1,0 +1,3 @@
+[submodule "submodule/git-repo-test-sub"]
+	path = submodule/git-repo-test-sub
+	url = https://github.com/xGregor/git-repo-test-sub.git
